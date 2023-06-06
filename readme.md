@@ -16,6 +16,7 @@ Usage:
 
 ## Tips
 
+- build with VS2022
 - when ms build, choose x86, not x64
 - Multiple processes with the same name can be watched
 - Process name case sensitive
